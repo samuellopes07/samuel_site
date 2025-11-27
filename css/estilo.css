@@ -101,7 +101,7 @@ nav.menu a:hover { color: var(--verde-claro); }
 .frente span { color: var(--verde-claro); }
 
 .atras {
-    background-image: url('/midia/foto1.jpg');
+    background-image: url('css/midia/foto1.jpg');
     background-size: cover;
     transform: rotateY(180deg);
 }
@@ -315,5 +315,6 @@ footer a {
         flex-direction: column;
     }
 }
+
 
 
