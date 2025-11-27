@@ -101,9 +101,12 @@ nav.menu a:hover { color: var(--verde-claro); }
 .frente span { color: var(--verde-claro); }
 
 .atras {
-    background-image: url('/css/midia/foto1.jpg');
+    background-color:var(--verde-claro);
     background-size: cover;
     transform: rotateY(180deg);
+}
+.atras img{
+    border-radius: 10px;
 }
 
 /* CONTEÚDO */
@@ -315,6 +318,7 @@ footer a {
         flex-direction: column;
     }
 }
+
 
 
 
