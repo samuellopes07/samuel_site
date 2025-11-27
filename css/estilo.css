@@ -1,4 +1,4 @@
-/* VARIÁVEIS */
+
 :root {
     --verde-claro: #7ED957;
     --azul: #0094FF;
@@ -7,7 +7,7 @@
     --preto: #222;
 }
 
-/* RESET */
+
 *{
     margin: 0;
     padding: 0;
@@ -50,14 +50,14 @@ nav.menu a {
 }
 nav.menu a:hover { color: var(--verde-claro); }
 
-/* MOBILE MENU */
+
 .menu-mobile {
     display: none;
     font-size: 35px;
     cursor: pointer;
 }
 
-/* CONTEÚDO HOME */
+
 .conteiner {
     display: flex;
     padding: 60px 5%;
@@ -318,6 +318,7 @@ footer a {
         flex-direction: column;
     }
 }
+
 
 
 
